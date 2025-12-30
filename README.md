@@ -2,3 +2,5 @@
 A random password and code generator that can be useful if you want an extremely difficult password to remember. (or if you want to lose your password too :3)
 
 I know it's not the best thing in the world, maybe not even the most legible, however, I hope it's good enough for someone to appreciate. (˶˃ᆺ˂˶)
+
+I'll have a contact email soon, I just need to go through the bureaucracy of most providers and everything will be fine!

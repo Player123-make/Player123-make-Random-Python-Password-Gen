@@ -4,7 +4,7 @@ import math # math function
 #========= Functions Section ==========
 
 # Generate a random key for an array.
-def newVal(val):
+def randKey(val):
     return math.floor(random.random() * val)
 
 #===================
@@ -17,9 +17,9 @@ n1 = len(numbers) # Numbers array length
 n2 = len(characters) # Characters array length
 n3 = len(special) # Special Characters array length
 
-kp = str(numbers[newVal(n1)]) + characters[newVal(n2)] + special[newVal(n3)] # Unique code in a single string.
-kp2 = str(numbers[newVal(n1)]) + characters[newVal(n2)] + special[newVal(n3)]
-kp3 = str(numbers[newVal(n1)]) + characters[newVal(n2)] + special[newVal(n3)]
-kp4 = str(numbers[newVal(n1)]) + characters[newVal(n2)] + special[newVal(n3)]
+kp = str(numbers[randKey(n1)]) + characters[randKey(n2)] + special[randKey(n3)] # Unique code in a single string.
+kp2 = str(numbers[randKey(n1)]) + characters[randKey(n2)] + special[randKey(n3)]
+kp3 = str(numbers[randKey(n1)]) + characters[randKey(n2)] + special[randKey(n3)]
+kp4 = str(numbers[randKey(n1)]) + characters[randKey(n2)] + special[randKey(n3)]
 
 print(kp + kp2 + kp3 + kp4) # I haven't automated this part yet ( ˶>˶˶<˶)

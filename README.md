@@ -4,3 +4,5 @@ A random password and code generator that can be useful if you want an extremely
 I know it's not the best thing in the world, maybe not even the most legible, however, I hope it's good enough for someone to appreciate. (˶˃ᆺ˂˶)
 
 I'll have a contact email soon, I just need to go through the bureaucracy of most providers and everything will be fine!
+
+If you want, you can also check out my friend's GitHub; he does cool stuff there like APIs and other things ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ 👉https://github.com/Happy01-alt
